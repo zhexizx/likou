@@ -7,4 +7,3 @@
 
 ![streak](https://streak-stats.demolab.com?user=zhexizx&theme=dark)
 
-![Alt](https://repobeats.axiom.co/api/embed/43109f95fe4ad9dafdfba17b803f8186629580cf.svg "Repobeats analytics image")

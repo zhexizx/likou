@@ -5,5 +5,5 @@
 
 ![leetcode](https://leetcard.jacoblin.cool/zhexiwan06?&ext=heatmap&theme=dark)
 
-![streak](https://streak-stats.demolab.com?user=zhexizx&theme=dark)
+![streak](https://streak-stats.demolab.com?user=zhexi0229&theme=dark)
 
